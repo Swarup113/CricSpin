@@ -1,4 +1,4 @@
-// Game State
+/ Game State
 let gameState = {
     team1: {
         name: 'Team 1',
